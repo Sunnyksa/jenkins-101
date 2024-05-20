@@ -1,1 +1,1 @@
-a new file
+echo "a new file"
